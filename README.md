@@ -1,2 +1,2 @@
-# advent-of-code
-Repository with advent of code challenges
+# Advent of code
+Repository containing [advent of code challenges](https://adventofcode.com/).
