@@ -1,1 +1,1 @@
-https://adventofcode.com/2022/day/1
+[Day 1 Part 1 challenge](https://adventofcode.com/2022/day/1)
