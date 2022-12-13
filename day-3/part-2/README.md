@@ -1,0 +1,1 @@
+[Day 3 Part 2 challenge](https://adventofcode.com/2022/day/3#part2)
