@@ -1,0 +1,1 @@
+[Day 5 Part 1 challenge](https://adventofcode.com/2022/day/5)
